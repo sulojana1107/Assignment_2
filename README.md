@@ -1,4 +1,5 @@
 # Assignment_2
+<<<<<<< HEAD
 
 Team members
 =============
@@ -16,3 +17,5 @@ kkkkk
 mmmmmm
 nnnnnn
 
+=======
+>>>>>>> phys
