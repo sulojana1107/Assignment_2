@@ -9,7 +9,12 @@ member c
 
 Software Requirements
 ======================
-
+abc 
+bhf 
+mmm
+xxxx(made by csc)
+yyyyy(made by csc)
+aaaaa(made by master)
 Objectives
 ============
 bnjbj
@@ -18,4 +23,7 @@ mmmmmm
 nnnnnn
 
 =======
+checking correctness
+======================
+made by csc
 >>>>>>> phys
